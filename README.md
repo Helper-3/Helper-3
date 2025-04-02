@@ -14,9 +14,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=k3l0pen.k3l0pen"  />
 </div>
 
-###
-<h3 align="left">📺 Последние видео на YouTube</h3>
-
 
 ###
 
